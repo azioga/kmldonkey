@@ -5,7 +5,7 @@
 Summary:	A frontend for MLDonkey
 Name:		kmldonkey
 Version:	2.0.7
-Release:	2
+Release:	3
 License:	GPL
 Group:		Graphical desktop/KDE
 URL:		http://extragear.kde.org/apps/kmldonkey/
